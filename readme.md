@@ -1,0 +1,1 @@
+Calculadora em Java, com interfaces gráficas utilizando pacote Swing.
